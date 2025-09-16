@@ -120,6 +120,7 @@
       - NanoTaskCartridge
       - NewsReaderCartridge
       - MedTekCartridge
+      - Polls1984Cartridge
 
 - type: entity
   parent: BasePDA
@@ -222,6 +223,7 @@
       - WantedListCartridge
       - LogProbeCartridge
       - AstroNavCartridge
+      - Polls1984Cartridge
 
 - type: entity
   parent: BasePDA
@@ -251,6 +253,7 @@
       - WantedListCartridge
       - LogProbeCartridge
       - AstroNavCartridge
+      - Polls1984Cartridge
 
 - type: entity
   parent: ClearPDA
